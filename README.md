@@ -18,9 +18,6 @@ I'm open to collaboration on interesting projects. Feel free to reach out if you
 
 ## 📫 How to Reach Me
 - 💌 Email: iqbal.ramadhani55@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- 🐦 Twitter: [Your Twitter Profile](https://twitter.com/your-profile)
-
+- 💼 LinkedIn: https://www.linkedin.com/in/iqbal-r-ab680411a
+  
 ---
-
-Tinggal kamu tambahkan link kontak yang sesuai dan disesuaikan lagi dengan skill atau teknologi yang kamu gunakan. Mau saya tambahkan elemen visual seperti badge, stats, atau GIF juga? 😊
